@@ -7,3 +7,8 @@
 /.gradle/
 /logs/
 /config/
+/mods/
+/saves/
+/crash-reports/
+options.txt
+usernamecache.json
