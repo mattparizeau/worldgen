@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mattworldgen",
+  "name": "WorldGen (Temporary Name)",
+  "description": "This mod adds a new world generator.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.github.com/mattparizeau/worldgen/",
+  "updateUrl": "",
+  "authorList": ["Matthieu Parizeau"],
+  "credits": "Matthieu Parizeau for creating this mod",
+  "logoFile": "assets/mattworldgen/branding/logo.png",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": ["Forge"]
+}
+]
